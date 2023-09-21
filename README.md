@@ -1,6 +1,9 @@
 # Text Summarization Using TF-IDF and Transformers
 
-In this project, we explore text summarization techniques using TF-IDF and Transformers, two different approaches for generating concise and informative summaries from text data. We also evaluate the quality of the generated summaries using ROUGE scores and then deploy the transformer based model on huggingface spaces using Streamlit .
+In this project, we explore text summarization techniques using TF-IDF and Transformers, two different approaches for generating concise and informative summaries from text data. We also evaluate the quality of the generated summaries using ROUGE scores and then deploy the transformer based model on huggingface spaces using Streamlit.
+![image](text-summary.png)
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)
